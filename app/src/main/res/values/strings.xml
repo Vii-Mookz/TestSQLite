@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestSQLite</string>
+    <string name="employee_first_name">FirstName</string>
+    <string name="employee_last_name">LastName</string>
+    <string name="employee_tel">Tel</string>
+    <string name="employee_email">Email</string>
+    <string name="employee_description">Description</string>
+
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_add">Add</string>
+
+    <string name="alert_title">Delete this employee?</string>
+    <string name="alert_message">Are you sure to delete this employee?</string>
+
+    <string name="add_data_title">Add this employee?</string>
+    <string name="add_data_message">Are you sure to add this employee?</string>
+</resources>
